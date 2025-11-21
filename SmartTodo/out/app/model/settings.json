@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "out",
+    "java.project.referencedLibraries": [
+        "D:/201-assignment/javafx-sdk-25.0.1/lib/*.jar"
+    ]
+}
+

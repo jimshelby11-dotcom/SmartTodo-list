@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run SmartTodo (JavaFX)",
+      "request": "launch",
+      "mainClass": "app.Main",
+      "classPaths": [
+        "D:/201-assignment/SmartTodo/out",
+        "D:/201-assignment/SmartTodo/resources"
+      ],
+      "vmArgs": "--enable-native-access=javafx.graphics --module-path \"D:/201-assignment/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
+
+
+
